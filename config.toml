@@ -86,8 +86,10 @@ use_full_hack_font = false
 #           Mimetype defaults to "image/x-icon".
 #           The URL should point at a file located
 #           in your site's "static" directory.
-# favicon = "/favicon.png"
-# favicon_mimetype = "image/png"
+favicon = "android-chrome-512x512.png"
+favicon_mimetype = "image/png"
+# favicon = "/favicon.ico"
+# favicon_mimetype = "image/vnd.microsoft.icon"
 
 # Optional: Set how <title> elements are rendered.
 # Values:
