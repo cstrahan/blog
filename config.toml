@@ -1,6 +1,6 @@
 # The URL the site will be built for
-base_url = "https://cstrahan.com"
-#base_url = "https://cstrahan.com/blog"
+base_url = "https://www.cstrahan.com"
+#base_url = "https://www.cstrahan.com/blog"
 title = "Charles Strahan's Blog"
 
 # Theme
