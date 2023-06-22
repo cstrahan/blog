@@ -1,6 +1,6 @@
 +++
 title = "About Me"
-path = "about"
+path = "blog/about"
 +++
 
 

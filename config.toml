@@ -1,6 +1,6 @@
 # The URL the site will be built for
 base_url = "https://www.cstrahan.com"
-#base_url = "https://www.cstrahan.com/blog"
+# base_url = "https://www.cstrahan.com/blog"
 title = "Charles Strahan's Blog"
 
 # Theme
@@ -59,8 +59,8 @@ menu_items = [
     # tags should only be enabled if you have "tags" taxonomy
     # see documentation below for more details
     #{name = "tags", url = "$BASE_URL/tags"},
-    {name = "archive", url = "$BASE_URL/archive"},
-    {name = "about me", url = "$BASE_URL/about"},
+    {name = "archive", url = "$BASE_URL/blog/archive"},
+    {name = "about me", url = "$BASE_URL/blog/about"},
 
     # set newtab to true to make the link open in new tab
     {name = "github", url = "https://github.com/cstrahan", newtab = true},

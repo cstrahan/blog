@@ -1,9 +1,9 @@
 +++
 title = "Blog: Reboot"
-date = 2019-02-02
+date = 2023-06-21
 
 [taxonomies]
-#tags = ["javascript", "rant"]
+tags = ["blogging", "zola"]
 +++
 
 Hey! Look, I've rebooted my blog.

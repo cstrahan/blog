@@ -1,5 +1,5 @@
 +++
 title = "Archive"
-path = "archive"
+path = "blog/archive"
 template = "archive.html"
 +++
