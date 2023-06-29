@@ -23,6 +23,10 @@ build_search_index = false
 highlight_code = true
 highlight_theme = "boron"
 
+# Whether smart punctuation is enabled (changing quotes, dashes, dots in their typographic form)
+# For example, `...` into `…`, `"quote"` into `“curly”` etc
+smart_punctuation = true
+
 [extra]
 
 # One of: blue, green, orange, pink, red.
